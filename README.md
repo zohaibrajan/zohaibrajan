@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <h4>A little about me...</h4>
 
 <div>
- Hi! My name is Zohaib. (Zo-heyb, I know it's a little tricky to pronounce), a passionate full-stack software engineer based in out of Atlanta, GA. Whether I'm coding up a storm or diving into software projects, my passion lies in crafting things that are not just functional but also easy on the eyes. Understanding how things work and, more importantly, how they break, is my jam. I believe that breaking it down is the key to improvement, and sharing that insight is what keeps the coding community buzzing.
-</div>  
-<br>
-<div>
-Outside of the coding world, catch me cheering on sports or diving into the latest gaming challenges. I cherish family time, exploring diverse cuisines, and discovering new places. Got any food recommendations? Feel free to share—I'm always looking to try something new.
+Hi, I'm Zohaib (Zo-heyb) and I am Software Engineer who enjoys problem-solving, working with others, and continuously learning.
+
+As a software engineer, I am proficient in JavaScript, Python, and SQL, I have built user application with React and Redux, managed data with a PostgreSQL database, and built backend servers with Flask and Express. Currently, I am actively seeking opportunities where I can apply my skill as an engineer, continue to grow professionally, and make an impact . Feel free to reach out: zohaibrajan@gmail.com
+
+Some of my personal interest include: technology, business, sports, fitness, and cars
 </div>
 
 <h4 align="center">Technologies I have used</h4>
