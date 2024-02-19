@@ -54,7 +54,7 @@ Outside of the coding world, catch me cheering on sports or diving into the late
 
 <div align="center">
  
- ![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaibrajan&show_icons=true&theme=dark)
+ <!-- ![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaibrajan&show_icons=true&theme=dark) -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibrajan&layout=compact)](https://github.com/zohaibrajan/github-readme-stats)
  
 </div>
