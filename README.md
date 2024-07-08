@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h4>A little about me...</h4>
 
 <div>
-Hi, I'm Zohaib (Zo-heyb) and I am Software Engineer who enjoys problem-solving, working with others, and continuously learning.
+Hi, I'm Zohaib (Zo-heyb) and I am a student at Georgia State University majoring in Computer Engineering who enjoys problem-solving, working with others, and continuously learning.
 
-As a software engineer, I am proficient in JavaScript, Python, and SQL, I have built user application with React and Redux, managed data with a PostgreSQL database, and built backend servers with Flask and Express. Currently, I am actively seeking opportunities where I can apply my skill as an engineer, continue to grow professionally, and make an impact . Feel free to reach out: zohaibrajan@gmail.com
+I am proficient in JavaScript, Python, and SQL, I have built user application with React and Redux, managed data with a PostgreSQL database, and built backend servers with Flask and Express. Currently, I am actively seeking opportunities where I can apply my skill as an engineer, continue to grow professionally, and make an impact . Feel free to reach out: zohaibrajan@gmail.com
 
 Some of my personal interest include: technology, business, sports, fitness, and cars
 </div>
