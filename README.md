@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div>
 Hi, I'm Zohaib (Zo-heyb) and I am a student at Georgia State University majoring in Computer Engineering who enjoys problem-solving, working with others, and continuously learning.
-
+<br></br>
 I am proficient in JavaScript, Python, and SQL, I have built user application with React and Redux, managed data with a PostgreSQL database, and built backend servers with Flask and Express. Currently, I am actively seeking opportunities where I can apply my skill as an engineer, continue to grow professionally, and make an impact . Feel free to reach out: zohaibrajan@gmail.com
 
 Some of my personal interest include: technology, business, sports, fitness, and cars
@@ -48,8 +48,6 @@ Some of my personal interest include: technology, business, sports, fitness, and
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  
 </div>
-
-<br>
 
 
 <div align="center">
